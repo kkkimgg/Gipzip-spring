@@ -8,7 +8,7 @@ const regionProperties = {
       price: "13억 3,000만원",
       auction: "실제 법원경매정보 사이트(https://www.courtauction.go.kr)에서 확인하러 가기",
       infra: "지하철 2호선 대치역 5분, 학군 우수, 공원, 강남구청, 맛집",
-      img: "/img/서울강남구_top3.jpg"
+      img: "/img/Gangnam-gu1.jpg"
     },
     {
       name: "타워팰리스2차",
@@ -17,7 +17,7 @@ const regionProperties = {
       price: "19억",
       auction: "실제 법원경매정보 사이트(https://www.courtauction.go.kr)에서 확인하러 가기",
       infra: "지하철 7호선 청담역, 한강 조망, 고급 커뮤니티, 공원, 대형마트",
-      img: "/img/서울강남구2.jpg"
+      img: "/img/Gangnam-gu2.jpg"
     },
     {
       name: "PH129",
@@ -26,7 +26,7 @@ const regionProperties = {
       price: "138억",
       auction: "실제 법원경매정보 사이트(https://www.courtauction.go.kr)에서 확인하러 가기",
       infra: "지하철 2호선 삼성역, 코엑스, 한강 조망, 고급 상권, 공원",
-      img: "/img/서울강남구3.jpeg"
+      img: "/img/Gangnam-gu3.jpeg"
     }
   ],
   "부산광역시 해운대구": [
@@ -37,7 +37,7 @@ const regionProperties = {
     price: '9억 5,000만원',
     auction: '실제 법원경매정보 사이트에서 확인하러 가기',
     infra: '2018년 입주, 13층, 부산2호선 인근, 대단지, 생활편의시설 인접',
-    img: "/img/부산 해운대구1.jpeg"
+    img: "/img/Haeundae-gu1.jpeg"
   },
   {
     name: '해운대 아이파크',
@@ -46,7 +46,7 @@ const regionProperties = {
     price: '12억원',
     auction: '실제 법원경매정보 사이트에서 확인하러 가기',
     infra: '2011년 입주, 10층, 초고층, 바다조망, 생활편의시설 인접',
-    img: "/img/부산해운대구2.jpeg"
+    img: "/img/Haeundae-gu2.jpeg"
   },
   {
     name: '해운대 아이파크(펜트하우스)',
@@ -55,7 +55,7 @@ const regionProperties = {
     price: '39억원',
     auction: '실제 법원경매정보 사이트에서 확인하러 가기',
     infra: '2011년 입주, 71층, 초고층, 파노라마 오션뷰, 최고급 단지',
-    img: "/img/부산해운대구3.jpeg"
+    img: "/img/Haeundae-gu3.jpeg"
   }
   ],
   "경기도 성남시 분당구": [
@@ -66,7 +66,7 @@ const regionProperties = {
   price: '7억 8,000만원',
   auction: '실제 법원경매정보 사이트에서 확인',
   infra: '야탑역 인근, 버스 다수, 대형마트 차량 10분, 공원 인근',
-  img: "/img/성남시분당구1.jpg"
+  img: "/img/Bundang-gu1.jpg"
   },
   {
   name: '더샵 분당 파크리버',
@@ -75,7 +75,7 @@ const regionProperties = {
   price: '15억 내외',
   auction: '실제 법원경매정보 사이트에서 확인',
   infra: '분당구청 근처, 버스 다수, 대형마트 차량 10분, 공원 인근',
-  img: "/img/성남시분당구2.jpg"
+  img: "/img/Bundang-gu2.jpg"
   },
   {
   name: '더샵 판교 퍼스트파크',
@@ -84,7 +84,7 @@ const regionProperties = {
   price: '20억 8,000만원',
   auction: '실제 법원경매정보 사이트에서 확인',
   infra: '백현역 인근, 판교역 차량 10분, 대형마트 차량 10분, 공원 인근',
-  img: "/img/성남시분당구3.jpg"
+  img: "/img/Bundang-gu3.jpg"
   }
   ],
   "서울특별시 송파구": [
@@ -95,7 +95,7 @@ const regionProperties = {
   price: '10억 9,000만원',
   auction: '실제 법원경매정보 사이트에서 확인',
   infra: '가락시장역 도보 7분, 송파구청 차량 10분, 올림픽공원 인근, 대형마트 차량 10분, 버스 다수',
-  img: "/img/서울송파구1.jpg"
+  img: "/img/Songpa-gu1.jpg"
   },
   {
   name: '송파 파크데일 2단지',
@@ -104,7 +104,7 @@ const regionProperties = {
   price: '13억 5,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '마천역 도보 7분, 송파구청 차량 20분, 인근 공원, 대형마트 차량 10분, 버스 다수, 자주식 주차장 완비',
-  img: "/img/서울송파구2.jpeg"
+  img: "/img/Songpa-gu2.jpeg"
   },
   {
   name: '송파 시그니처 롯데캐슬',
@@ -113,7 +113,7 @@ const regionProperties = {
   price: '15억 9,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '지하철 인근, 송파구청 차량 10분, 대형마트, 공원, 버스 다수, 자주식 주차장 완비',
-  img: "/img/서울송파구3.jpeg"
+  img: "/img/Songpa-gu3.jpeg"
   }
   ],
   "인천광역시 연수구": [
@@ -124,7 +124,7 @@ const regionProperties = {
   price: '20억 2,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '2014년 준공, 31층, 송도동 중심, 초고급 대단지, 생활편의시설 인접',
-  img: "/img/인천연수구1.jpeg"
+  img: "/img/Yeonsu-gu1.jpeg"
   },
   {
   name: '자이 하버뷰 2단지',
@@ -133,7 +133,7 @@ const regionProperties = {
   price: '24억 3,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '2017년 준공, 4층, 송도동 중심, 초고급 대단지, 생활편의시설 인접[20]',
-  img: "/img/인천연수구2.webp"
+  img: "/img/Yeonsu-gu2.webp"
   },
   {
   name: '글로벌캠퍼스 푸르지오',
@@ -142,7 +142,7 @@ const regionProperties = {
   price: '8억원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '2013년 준공, 10층, 송도동 중심, 대단지, 생활편의시설 인접',
-  img: "/img/인천연수구3.jpg"
+  img: "/img/Yeonsu-gu3.jpg"
   }
   ],
   "대구광역시 수성구": [
@@ -153,7 +153,7 @@ const regionProperties = {
   price: '8억 7,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '2022년 입주, 9층, 범어동 중심, 대단지, 생활편의시설 인접',
-  img: "/img/대구수성구1.jpeg"
+  img: "/img/Suseong-gu1.jpeg"
   },
   {
   name: '범어 아이파크 1차',
@@ -162,7 +162,7 @@ const regionProperties = {
   price: '12억 8,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '2024년 입주, 14층, 범어동 중심, 대단지, 생활편의시설 인접',
-  img: "/img/대구수성구2.jpeg"
+  img: "/img/Suseong-gu2.jpeg"
   },
   {
   name: '대우 트럼프월드 수성',
@@ -171,7 +171,7 @@ const regionProperties = {
   price: '8억 6,500만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '2007년 입주, 28층, 두산동 중심, 대단지, 생활편의시설 인접',
-  img: "/img/대구수성구3.jpg"
+  img: "/img/Suseong-gu3.jpg"
   }
   ],
   "경기도 용인시 수지구": [
@@ -182,7 +182,7 @@ const regionProperties = {
   price: '6억 2,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '수인분당선 오리역 도보 13분, 신분당선 동천역 13분, 초등학교 도보 7분, 판교·강남 접근성 우수',
-  img: "/img/용인수지구.jpg"
+  img: "/img/Suji-gu1.jpg"
   },
   {
   name: '성복역 롯데캐슬 골드타운',
@@ -191,7 +191,7 @@ const regionProperties = {
   price: '13억 6,000만원',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '성복역 도보 3분, 대형마트(롯데몰), 판교·강남 접근성, 자주식 주차장',
-  img: "/img/용인수지2.jpg"
+  img: "/img/Suji-gu2.jpg"
   },
   {
   name: '고기동 하이엔드 고급주택',
@@ -200,7 +200,7 @@ const regionProperties = {
   price: '23억',
   auction: '실제 법원경매정보 사이트에서 확인하러 가기',
   infra: '고기유원지 입구, 분당·판교·대장IC 인접, 자연환경 우수',
-  img: "/img/용인수지구3.jpg"
+  img: "/img/Suji-gu3.jpg"
   }
   ],
   "서울특별시 용산구": [
@@ -211,7 +211,7 @@ const regionProperties = {
   price: '12억 내외',
   auction: '실제 법원경매정보 사이트에서 확인',
   infra: '한남역 도보 5분, 용산구청 차량 10분, 한강공원 인근, 대형마트 차량 10분, 버스 다수',
-  img: "/img/서울용산구1.jpg"
+  img: "/img/Yongsan-gu1.jpg"
   },
   {
   name: '한남더힐 단독주택',
@@ -220,7 +220,7 @@ const regionProperties = {
   price: '19억 내외',
   auction: '실제 법원경매정보 사이트에서 확인',
   infra: '한남역 도보 5분, 용산구청 차량 10분, 한강공원, 대형마트 차량 10분, 버스 다수',
-  img: "/img/서울용산2.jpg"
+  img: "/img/Yongsan-gu2.jpg"
   },
   {
   name: '아크로 서울포레스트',
@@ -229,7 +229,7 @@ const regionProperties = {
   price: '145억',
   auction: '실제 법원경매정보 사이트에서 확인',
   infra: '성수역 도보 5분, 성동구청 차량 10분, 서울숲공원, 대형마트 차량 10분, 버스 다수',
-  img: "/img/서울용산3.webp"
+  img: "/img/Yongsan-gu3.webp"
   }
   ]
 };
